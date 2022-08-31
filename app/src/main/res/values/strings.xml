@@ -4,6 +4,19 @@
     <string name="input_2">input 2</string>
     <string name="calculate">Calculate</string>
     <string name="result">Result</string>
-    <string name="txt_hasil">txt hasil</string>
     <string name="umur">Umur :</string>
+    <string name="judul_nilai">Menghitung Nilai Akhir Mahasiswa</string>
+    <string name="label_nim">Nim :</string>
+    <string name="label_nama">Nama :</string>
+    <string name="label_uas">Nilai UAS :</string>
+    <string name="label_uts">Nilai UTS :</string>
+    <string name="label_tugas">Nilai Tugas :</string>
+    <string name="reset">Reset</string>
+    <string name="total">Total :</string>
+    <string name="rata">Rata-rata Nilai :</string>
+    <string name="huruf">Nilai Huruf :</string>
+    <string name="status">Status :</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="nimHint">20110021</string>
+    <string name="nilai">100</string>
 </resources>
