@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Latihan_CH3</string>
+    <string name="input_1">input 1</string>
+    <string name="input_2">input 2</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+    <string name="txt_hasil">txt hasil</string>
+    <string name="umur">Umur :</string>
+</resources>
